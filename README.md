@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prince-sakyi
 - 🎉I am a crypto enthusiast with 7 years crypto experience on my template:
 - 🧪I am a community manager(Head of Starknet Ghana, Africa Lead for Flooz.xyz)
-- ✅I am a Binance Angel and Affiliate building the Binance community in Ghana and Aftica at large
+- ✅I am a Binance Angel and Affiliate building the Binance community in Ghana and Africa at large
 - ☀️I speak on various events, educating and teaching people on web3 and crypro applications
 - 🤝I am a P2P specialist with over 120 verified merchants(from Binance, OKX, Kucoin and other exchanges) who trade offline in my circle space
 - 🚀I research into/buy good tokens that have potential for good returns. I do that for good memes as well
