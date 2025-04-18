@@ -1,18 +1,40 @@
-- 👋 Hi, I’m @prince-sakyi
-- 🎉I am a crypto enthusiast with 7 years crypto experience on my template:
-- 🧪I am a community manager(Head of Starknet Ghana, Africa Lead for Flooz.xyz)
-- ✅I am a Binance Angel and Affiliate building the Binance community in Ghana and Africa at large
-- ☀️I speak on various events, educating and teaching people on web3 and crypro applications
-- 🤝I am a P2P specialist with over 120 verified merchants(from Binance, OKX, Kucoin and other exchanges) who trade offline in my circle space
-- 🚀I research into/buy good tokens that have potential for good returns. I do that for good memes as well
+👋 Hi there, I’m @prince-sakyi
 
-Oops I just remembered I am an accountant as well
-- 👀 I specialize in Financial Data Analysis and computerised accounting
-- 🌱 I’m currently learning how to visualise financial data in database apps like Excel, Numbers and Quickbooks
-- 💞️ I’m open to collaborate on any Crypto Accountancy services
-- 📫 You can reach me via email at princesakyikobina@gmail.com.Send me a Whatsapp message +233556794517
+🔹 Crypto Leader | Community Builder | Project Manager | Financial Analyst
 
-<!---
-prince-sakyi/prince-sakyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⸻
+
+🧠 Web3 & Crypto Expertise
+	•	🪙 8 years of hands-on experience in the crypto ecosystem.
+	•	🇬🇭 Head of StarkNet Ghana and Africa Lead for Flooz.xyz—leading educational and community campaigns across the continent.
+	•	✅ Binance Angel & Affiliate – actively building and moderating Binance communities in Ghana and Africa.
+	•	🌍 Ambassador for OKX Africa (March–April 2025), supporting user acquisition and hosting regional webinars.
+	•	🧩 Specialist in P2P trading, managing a verified network of 120+ merchants from Binance, OKX, Kucoin, etc.
+	•	📢 Frequent speaker at Web3 events, educating audiences on blockchain, token research, and crypto adoption.
+	•	🚀 Token researcher and early-stage memecoin investor, focused on high-potential plays.
+
+⸻
+
+📊 Finance & Data Expertise
+	•	🧾 Background in Accountancy and Financial Data Analysis.
+	•	📈 Skilled in computerized accounting systems with growing expertise in visualizing financial data using Excel, Apple Numbers, and QuickBooks.
+	•	💼 Open for collaborations on Crypto Accountancy and blockchain-integrated finance models.
+
+⸻
+
+Currently pursuing a Master of Science in Project Management with a strong foundation in globally recognized methodologies such as PMBOK, PRINCE2, and Agile frameworks. The program emphasizes:
+	•	Project Governance & Leadership – mastering the structures, policies, and ethical principles that guide successful project oversight and accountability.
+	•	Stakeholder Engagement – developing strategies for identifying, analyzing, and managing stakeholders across complex, high-impact environments.
+	•	Procurement & Contract Management – gaining expertise in sourcing, vendor evaluation, contract negotiation, and lifecycle supply chain strategies.
+	•	Quality & Performance Management – applying Total Quality Management (TQM), Six Sigma, and continuous improvement principles to ensure value delivery.
+	•	Risk & Sustainability Analysis – integrating sustainability and risk mitigation into project design, execution, and impact assessments.
+	•	Practical Application – bridging theory and practice across traditional sectors and modern domains like blockchain, fintech, and decentralized organizations.
+
+This program empowers me to lead projects of any scale with a focus on innovation, accountability, and sustainable value creation.
+
+⸻
+
+📬 Let’s connect!
+	•	Email: princesakyikobina@gmail.com
+	•	Telegram: @princesakyi_xyz
+	•	WhatsApp: +233594006294
